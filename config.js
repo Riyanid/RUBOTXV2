@@ -34,22 +34,22 @@ global.sig = 'https://instagram.com/_ctzhid'
 global.sgh = '-' //github
 global.sgc = 'https://chat.whatsapp.com/Iu9I1k8FnXW1sXT41XIF50' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://youtube.com/channel/UC1XsDCuEyez3gcogOMgOJxw' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.pdana = '081511879987' //dana
+global.povo = '081511879987' //ovo
+global.pgopay = '081511879987' //gopay
+global.plinkaja = '081511879987' //link aja
+global.ppulsa = '081511879987' //telkomsel
+global.ppulsa2 = '081511879987' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.com/RIYANID'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628XXXXXXXXXX'
-global.nomorown = '628XXXXXXXXXX'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorbot = '6281511879987'
+global.nomorown = '6285711450232'
+global.namebot = 'RUBOT-X'
+global.nameown = '༄ᶦᶰᵈ᭄Mr.|2!¥απαDΔ࿐'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
