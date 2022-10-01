@@ -21,7 +21,7 @@
 # Ambil Session Disini
 
 > Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lite=1&outputonly=1#.replit) 
-> Dan Subscribe [ Here ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
+> Dan Subscribe [ Here ](https://www.youtube.com/channel/UC1XsDCuEyez3gcogOMgOJxw) 
 
 ### Preview bot
 ------------------
